@@ -93,7 +93,7 @@ Select "File > New > New Project..." from the menubar. It'll present you with a 
 
 Once "Empty Views Activity" is selected (click on it if you're not sure), click "Next". Android Studio will bring you to the "New Project" dialog, which will present you with some text fields. These are fields designed to set some names for your application.
 
-For this homeowrk assignment, change the "Application Name" to "Hello Android", change the "Package Name" to be `edu.uw.ischool.`{your-NetID}`.hello`. Click OK, and Android Studio will start working to create the project, generate out some starter source code, and get things ready for you to go.
+For this homeowrk assignment, change the "Name" to "Hello Android", change the "Package Name" to be `edu.uw.ischool.`{your-NetID}`.hello`. Make sure the "Save location" is a directory inside this repository, and that "Minimum SDK" is set to "API 28 ("Pie"; Android 9.0)". Leave the "Build configuration language" as "Kotlin DSL". Click OK, and Android Studio will start working to create the project, generate out some starter source code, and get things ready for you to go.
 
 > It is not uncommon for this to download some stuff, too. Again, do it during "The Kardashians." There is a LOT of stuff to download. You may periodically get a message across the top of the screen "Gradle project sync failed. ... Try Again  Open 'Build' View ...." Click on Try Again once or twice, it's possible a hiccup in yoor internet connection interrupted the download.
 
