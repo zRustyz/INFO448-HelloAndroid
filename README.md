@@ -130,5 +130,18 @@ Now, take a screen shot of your app running on the emulator. Also take a screen 
 
 > This isn't just proof that you did your homework; the Google Play Store requires screen shots of your application to display in the store when people look to download it, so knowing how to do this is important for your mobile development skills.
 
-## Turn it in!
-In Canvas, 
+Put the screenshots into a subdirectory called "screenshots".
+
+## Grading Rubric
+We will clone and build it from your GitHub repo. We will not get code from any other source. ("If it's not in the source code repository, it does not exist.")
+
+* Total 5 points:
+    * it builds: 2 pts
+    * it runs in the emulator: 1 pt
+    * we see it runs on a device: 1 pt
+    * the app name is "Hello": 1 pt
+* Extra credit:
+    * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
+    * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+
+When you turn in the homework in Canvas, put in the link to your GitHub repo.
