@@ -121,7 +121,7 @@ Now you need to make just a few changes to the app to personalize it just a bit.
 Please:
 
 * Change the "Hello World" text edit to read "Go Seahawks!" or "Go Dawgs!" or "Cougars suck!" or anything more interesting than "Hello World!"
-* Change the displayed name of the app (in the Android home screen) to "Hello".
+* Change the displayed name of the app (in the Android home screen) to "Hello". (This will require you to do a little Googling, but I want you to know how to do this, just in case you mis-type the application name or need to change it once you've generated the project. Trust me, typos happen.)
 
 Rebuild and re-deploy.
 
