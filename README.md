@@ -1,4 +1,4 @@
-# INFO448-HelloAndroid
+# UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
 * run Android Studio
